@@ -1,7 +1,7 @@
 ### "Salve!" :v: Sou Wesley Brito *(Nickname: Vlk)*
 - 💬 Tenho 22 anos, morador de Taboão da Serra, São Paulo 🇧🇷
 - 🔭 No momento, trabalho como Recepcionista na área da saúde ***// Em busca de transição para o mercado Dev 🚀***
-- 🌱 Estudante de Engenharia de Computação, *_ainda_engatinhando_na_programacao_*
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, *_ainda_engatinhando_na_programacao_*
 
 ***// #FutureBackendJr ☕☕***
 
